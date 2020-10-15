@@ -8,8 +8,21 @@
   align-items: center;
 }
 
+input{
+  margin-bottom: 20px;
+}
+
+input:last-child{
+  margin-bottom: 0;
+}
+
 .result{
   width: 200px;
   height: 100px;
   background-color: #2ff;
+  margin-bottom: 20px;
+}
+
+.button{
+  margin-bottom: 20px;
 }
